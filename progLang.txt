@@ -1,0 +1,2 @@
+A list of popular programming languages
+Python, JavaScript, Java, C, C++, C#, Go, Rust, Swift, Kotlin, Ruby, PHP, TypeScript, Dart, Assembly, Zig, V, R, Julia, MATLAB, Fortran, Wolfram, Octave, Scilab, HTML, CSS, Elixir, Hack, ASP.NET, Haskell, F#, Lisp, Clojure, Scheme, OCaml, Erlang, Racket, Prolog, SQL, Datalog, Bash, PowerShell, Perl, Lua, Tcl, Groovy, GDScript, Scratch, Logo, Alice, Befunge, Whitespace, LOLCODE.
