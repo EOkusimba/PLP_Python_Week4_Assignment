@@ -1,7 +1,9 @@
 # PLP_Python_Week4_Assignment
 This repository provides answers to the PLP week 4 Python assignment:
-                File Read & Write Challenge 🖋️: Create a program that reads a file and writes a modified version to a new file.
-                Error Handling Lab 🧪: Ask the user for a filename and handle errors if it doesn’t exist or can’t be read.
+
+              File Read & Write Challenge 🖋️: Create a program that reads a file and writes a modified version to a new file.
+              
+              Error Handling Lab 🧪: Ask the user for a filename and handle errors if it doesn’t exist or can’t be read.
 
 The code performs the following:
 
